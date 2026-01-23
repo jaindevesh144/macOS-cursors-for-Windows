@@ -25,9 +25,9 @@ This is cursors only for 4K (3840 x 2160 pixel) resolution.
 
 ## Please Support me
 
-TON: UQCXsme0tXM9pf3yYn_Z6KAvA0i22TR6dYWBVKpjiwUSdJum
-BTC: 1NtWDeoWRRV4Rpm2qm4YHscWUr4hmm9yhk
-USDT (TRC20): TVcrF8Swf5AovRM6zopgrTjzagzmXYBbsf
+- **TON**: `UQCXsme0tXM9pf3yYn_Z6KAvA0i22TR6dYWBVKpjiwUSdJum`
+- **BTC**: `1NtWDeoWRRV4Rpm2qm4YHscWUr4hmm9yhk`
+- **USDT (TRC20)**: `TVcrF8Swf5AovRM6zopgrTjzagzmXYBbsf`
 
 ## Authors
 
